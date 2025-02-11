@@ -1,2 +1,2 @@
-Thanks to Python crash course... At least I can say I understand python is readable and practical, allowing chances for easy exploration. 
+Thanks to Python crash course... At least I can say I understand how readable and practical python is, allowing chances for easy exploration. 
 Just a record.
